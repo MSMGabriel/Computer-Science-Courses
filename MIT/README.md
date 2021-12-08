@@ -1,1 +1,1 @@
-THESE ALL ARE MIT COURSES TAKEN VIA MITx and MITopencourseware
+MIT-6.0001: Introduction to Computer Science and Programming in Python
